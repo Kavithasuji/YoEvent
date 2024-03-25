@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event management", "Event management.csproj", "{29A10986-5384-49E8-AE79-8111701F8D53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eventedmxentites", "Eventedmxentites\Eventedmxentites.csproj", "{708BAB02-C271-4265-BE44-8B8F66A477AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29A10986-5384-49E8-AE79-8111701F8D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A10986-5384-49E8-AE79-8111701F8D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A10986-5384-49E8-AE79-8111701F8D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A10986-5384-49E8-AE79-8111701F8D53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{708BAB02-C271-4265-BE44-8B8F66A477AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708BAB02-C271-4265-BE44-8B8F66A477AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708BAB02-C271-4265-BE44-8B8F66A477AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708BAB02-C271-4265-BE44-8B8F66A477AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ECD6AFA-87A8-4B76-8F95-58030CD10D49}
+	EndGlobalSection
+EndGlobal

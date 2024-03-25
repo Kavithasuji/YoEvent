@@ -1,0 +1,720 @@
+D:\Event management\Eventedmxentites\bin\Eventedmxentites.dll.config
+D:\Event management\Eventedmxentites\bin\Eventedmxentites.dll
+D:\Event management\Eventedmxentites\bin\Eventedmxentites.pdb
+D:\Event management\Eventedmxentites\bin\roslyn\csc.exe
+D:\Event management\Eventedmxentites\bin\roslyn\csc.exe.config
+D:\Event management\Eventedmxentites\bin\roslyn\csc.rsp
+D:\Event management\Eventedmxentites\bin\roslyn\csi.exe
+D:\Event management\Eventedmxentites\bin\roslyn\csi.exe.config
+D:\Event management\Eventedmxentites\bin\roslyn\csi.rsp
+D:\Event management\Eventedmxentites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Event management\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Event management\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Event management\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Event management\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Event management\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Event management\Eventedmxentites\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Event management\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Event management\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Event management\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Event management\Eventedmxentites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Event management\Eventedmxentites\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.AppContext.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.Collections.Immutable.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.Console.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.Globalization.Calendars.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.IO.Compression.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.IO.FileSystem.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.Net.Http.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.Net.Sockets.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.Reflection.Metadata.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.ValueTuple.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.Xml.XPath.dll
+D:\Event management\Eventedmxentites\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Event management\Eventedmxentites\bin\roslyn\vbc.exe
+D:\Event management\Eventedmxentites\bin\roslyn\vbc.exe.config
+D:\Event management\Eventedmxentites\bin\roslyn\vbc.rsp
+D:\Event management\Eventedmxentites\bin\roslyn\VBCSCompiler.exe
+D:\Event management\Eventedmxentites\bin\roslyn\VBCSCompiler.exe.config
+D:\Event management\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Event management\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Event management\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.AssemblyReference.cache
+D:\Event management\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CoreCompileInputs.cache
+D:\Event management\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CopyComplete
+D:\Event management\Eventedmxentites\obj\Debug\Eventedmxentites.dll
+D:\Event management\Eventedmxentites\obj\Debug\Eventedmxentites.pdb
+D:\Event management\Eventedmxentites\bin\EntityFramework.dll
+D:\Event management\Eventedmxentites\bin\EntityFramework.SqlServer.dll
+D:\Event management\Eventedmxentites\bin\EntityFramework.xml
+D:\Event management\Eventedmxentites\bin\EntityFramework.SqlServer.xml
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\Eventedmxentites.dll.config
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\Eventedmxentites.dll
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\Eventedmxentites.pdb
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\csc.exe
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\csc.exe.config
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\csc.rsp
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\csi.exe
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\csi.exe.config
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\csi.rsp
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\System.Buffers.dll
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\System.Collections.Immutable.dll
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\System.Memory.dll
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\System.Numerics.Vectors.dll
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\System.Reflection.Metadata.dll
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\vbc.exe
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\vbc.exe.config
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\vbc.rsp
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\VBCSCompiler.exe
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\VBCSCompiler.exe.config
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\EntityFramework.dll
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\EntityFramework.SqlServer.dll
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\EntityFramework.xml
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\EntityFramework.SqlServer.xml
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.AssemblyReference.cache
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CoreCompileInputs.cache
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CopyComplete
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\obj\Debug\Eventedmxentites.dll
+D:\Event management 4-1-2024 (Dashboard)\Eventedmxentites\obj\Debug\Eventedmxentites.pdb
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\Eventedmxentites.dll.config
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\Eventedmxentites.dll
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\Eventedmxentites.pdb
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\csc.exe
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\csc.exe.config
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\csc.rsp
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\csi.exe
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\csi.exe.config
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\csi.rsp
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\System.Buffers.dll
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\System.Collections.Immutable.dll
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\System.Memory.dll
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\System.Numerics.Vectors.dll
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\System.Reflection.Metadata.dll
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\vbc.exe
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\vbc.exe.config
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\vbc.rsp
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\VBCSCompiler.exe
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\roslyn\VBCSCompiler.exe.config
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\EntityFramework.dll
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\EntityFramework.SqlServer.dll
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\EntityFramework.xml
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\EntityFramework.SqlServer.xml
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.AssemblyReference.cache
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CoreCompileInputs.cache
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CopyComplete
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\obj\Debug\Eventedmxentites.dll
+D:\Event management 9-1-2024 (Dashboard)\Eventedmxentites\obj\Debug\Eventedmxentites.pdb
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\Eventedmxentites.dll.config
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\Eventedmxentites.dll
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\Eventedmxentites.pdb
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\csc.exe
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\csc.exe.config
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\csc.rsp
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\csi.exe
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\csi.exe.config
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\csi.rsp
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\System.Buffers.dll
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\System.Collections.Immutable.dll
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\System.Memory.dll
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\System.Numerics.Vectors.dll
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\System.Reflection.Metadata.dll
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\vbc.exe
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\vbc.exe.config
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\vbc.rsp
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\VBCSCompiler.exe
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\VBCSCompiler.exe.config
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\EntityFramework.dll
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\EntityFramework.SqlServer.dll
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\EntityFramework.xml
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\EntityFramework.SqlServer.xml
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.AssemblyReference.cache
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CoreCompileInputs.cache
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CopyComplete
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\obj\Debug\Eventedmxentites.dll
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\obj\Debug\Eventedmxentites.pdb
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\Microsoft.AspNet.DynamicData.EFProvider.dll
+D:\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\Microsoft.AspNet.EntityDataSource.dll
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\Eventedmxentites.dll.config
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\Eventedmxentites.dll
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\Eventedmxentites.pdb
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\csc.exe
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\csc.exe.config
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\csc.rsp
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\csi.exe
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\csi.exe.config
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\csi.rsp
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\System.Buffers.dll
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\System.Collections.Immutable.dll
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\System.Memory.dll
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\System.Numerics.Vectors.dll
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\System.Reflection.Metadata.dll
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\vbc.exe
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\vbc.exe.config
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\vbc.rsp
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\VBCSCompiler.exe
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\roslyn\VBCSCompiler.exe.config
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\EntityFramework.dll
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\EntityFramework.SqlServer.dll
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\Microsoft.AspNet.DynamicData.EFProvider.dll
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\Microsoft.AspNet.EntityDataSource.dll
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\EntityFramework.xml
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\EntityFramework.SqlServer.xml
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.AssemblyReference.cache
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CoreCompileInputs.cache
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CopyComplete
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\obj\Debug\Eventedmxentites.dll
+D:\BACKUP\23-01-2024\Event management 10-1-2024 (Create Event Working)\Eventedmxentites\obj\Debug\Eventedmxentites.pdb
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\Eventedmxentites.dll.config
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\Eventedmxentites.dll
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\Eventedmxentites.pdb
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\csc.exe
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\csc.exe.config
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\csc.rsp
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\csi.exe
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\csi.exe.config
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\csi.rsp
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\System.Buffers.dll
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\System.Collections.Immutable.dll
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\System.Memory.dll
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\System.Numerics.Vectors.dll
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\System.Reflection.Metadata.dll
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\vbc.exe
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\vbc.exe.config
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\vbc.rsp
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\VBCSCompiler.exe
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\roslyn\VBCSCompiler.exe.config
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\EntityFramework.dll
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\EntityFramework.SqlServer.dll
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\Microsoft.AspNet.DynamicData.EFProvider.dll
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\Microsoft.AspNet.EntityDataSource.dll
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\EntityFramework.xml
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\EntityFramework.SqlServer.xml
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.AssemblyReference.cache
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CoreCompileInputs.cache
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CopyComplete
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\obj\Debug\Eventedmxentites.dll
+D:\BACKUP\30-01-2024\Event management 30 -1-2024\Eventedmxentites\obj\Debug\Eventedmxentites.pdb
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\Eventedmxentites.dll.config
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\Eventedmxentites.dll
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\Eventedmxentites.pdb
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\csc.exe
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\csc.exe.config
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\csc.rsp
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\csi.exe
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\csi.exe.config
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\csi.rsp
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\System.Buffers.dll
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\System.Collections.Immutable.dll
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\System.Memory.dll
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\System.Numerics.Vectors.dll
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\System.Reflection.Metadata.dll
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\vbc.exe
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\vbc.exe.config
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\vbc.rsp
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\VBCSCompiler.exe
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\roslyn\VBCSCompiler.exe.config
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\EntityFramework.dll
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\EntityFramework.SqlServer.dll
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\Microsoft.AspNet.DynamicData.EFProvider.dll
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\Microsoft.AspNet.EntityDataSource.dll
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\EntityFramework.xml
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\EntityFramework.SqlServer.xml
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.AssemblyReference.cache
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CoreCompileInputs.cache
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CopyComplete
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\obj\Debug\Eventedmxentites.dll
+D:\BACKUP\01-02-2024\Event management 01 -02-2024\Eventedmxentites\obj\Debug\Eventedmxentites.pdb
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\Eventedmxentites.dll.config
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\Eventedmxentites.dll
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\Eventedmxentites.pdb
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\csc.exe
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\csc.exe.config
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\csc.rsp
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\csi.exe
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\csi.exe.config
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\csi.rsp
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\System.Buffers.dll
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\System.Collections.Immutable.dll
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\System.Memory.dll
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\System.Numerics.Vectors.dll
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\System.Reflection.Metadata.dll
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\vbc.exe
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\vbc.exe.config
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\vbc.rsp
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\VBCSCompiler.exe
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\roslyn\VBCSCompiler.exe.config
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\EntityFramework.dll
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\EntityFramework.SqlServer.dll
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\Microsoft.AspNet.DynamicData.EFProvider.dll
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\Microsoft.AspNet.EntityDataSource.dll
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\EntityFramework.xml
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\EntityFramework.SqlServer.xml
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.AssemblyReference.cache
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CoreCompileInputs.cache
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CopyComplete
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\obj\Debug\Eventedmxentites.dll
+D:\BACKUP\02-02-2024\Event management 02 -02-2024\Eventedmxentites\obj\Debug\Eventedmxentites.pdb
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\Eventedmxentites.dll.config
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\Eventedmxentites.dll
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\Eventedmxentites.pdb
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\csc.exe
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\csc.exe.config
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\csc.rsp
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\csi.exe
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\csi.exe.config
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\csi.rsp
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.targets
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\System.Buffers.dll
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\System.Collections.Immutable.dll
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\System.Memory.dll
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\System.Numerics.Vectors.dll
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\System.Reflection.Metadata.dll
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\vbc.exe
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\vbc.exe.config
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\vbc.rsp
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\VBCSCompiler.exe
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\roslyn\VBCSCompiler.exe.config
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\EntityFramework.dll
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\EntityFramework.SqlServer.dll
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\Microsoft.AspNet.DynamicData.EFProvider.dll
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\Microsoft.AspNet.EntityDataSource.dll
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\EntityFramework.xml
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\EntityFramework.SqlServer.xml
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.AssemblyReference.cache
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CoreCompileInputs.cache
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CopyComplete
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\obj\Debug\Eventedmxentites.dll
+C:\BACK UP\13-02-2024\Event management 13-02-2024\Eventedmxentites\obj\Debug\Eventedmxentites.pdb
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\Eventedmxentites.dll.config
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\Eventedmxentites.dll
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\Eventedmxentites.pdb
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\csc.exe
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\csc.exe.config
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\csc.rsp
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\csi.exe
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\csi.exe.config
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\csi.rsp
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\System.Buffers.dll
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\System.Collections.Immutable.dll
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\System.Memory.dll
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\System.Numerics.Vectors.dll
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\System.Reflection.Metadata.dll
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\vbc.exe
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\vbc.exe.config
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\vbc.rsp
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\VBCSCompiler.exe
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\roslyn\VBCSCompiler.exe.config
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\EntityFramework.dll
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\EntityFramework.SqlServer.dll
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\Microsoft.AspNet.DynamicData.EFProvider.dll
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\Microsoft.AspNet.EntityDataSource.dll
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\EntityFramework.xml
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\EntityFramework.SqlServer.xml
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.AssemblyReference.cache
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CoreCompileInputs.cache
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\obj\Debug\Eventedm.17A0537D.Up2Date
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\obj\Debug\Eventedmxentites.dll
+D:\BACKUP\26-02-2024\Event management 26-02-2024\Eventedmxentites\obj\Debug\Eventedmxentites.pdb
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\Eventedmxentites.dll.config
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\Eventedmxentites.dll
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\Eventedmxentites.pdb
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\csc.exe
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\csc.exe.config
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\csc.rsp
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\csi.exe
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\csi.exe.config
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\csi.rsp
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.targets
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\System.Buffers.dll
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\System.Collections.Immutable.dll
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\System.Memory.dll
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\System.Numerics.Vectors.dll
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\System.Reflection.Metadata.dll
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\vbc.exe
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\vbc.exe.config
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\vbc.rsp
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\VBCSCompiler.exe
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\roslyn\VBCSCompiler.exe.config
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\EntityFramework.dll
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\EntityFramework.SqlServer.dll
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\Microsoft.AspNet.DynamicData.EFProvider.dll
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\Microsoft.AspNet.EntityDataSource.dll
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\EntityFramework.xml
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\EntityFramework.SqlServer.xml
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.AssemblyReference.cache
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CoreCompileInputs.cache
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CopyComplete
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\obj\Debug\Eventedmxentites.dll
+C:\BACK UP\01-03-1014\Event management 01-03-2024\Event management 01-03-2024\Eventedmxentites\obj\Debug\Eventedmxentites.pdb
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\Eventedmxentites.dll.config
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\Eventedmxentites.dll
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\Eventedmxentites.pdb
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\csc.exe
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\csc.exe.config
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\csc.rsp
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\csi.exe
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\csi.exe.config
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\csi.rsp
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\System.Buffers.dll
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\System.Collections.Immutable.dll
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\System.Memory.dll
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\System.Numerics.Vectors.dll
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\System.Reflection.Metadata.dll
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\vbc.exe
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\vbc.exe.config
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\vbc.rsp
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\VBCSCompiler.exe
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\roslyn\VBCSCompiler.exe.config
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\EntityFramework.dll
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\EntityFramework.SqlServer.dll
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\Microsoft.AspNet.DynamicData.EFProvider.dll
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\Microsoft.AspNet.EntityDataSource.dll
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\EntityFramework.xml
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\EntityFramework.SqlServer.xml
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.AssemblyReference.cache
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CoreCompileInputs.cache
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\obj\Debug\Eventedm.17A0537D.Up2Date
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\obj\Debug\Eventedmxentites.dll
+D:\BACKUP\11-03-2024\up\Event management 11-03-2024\Eventedmxentites\obj\Debug\Eventedmxentites.pdb
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\Eventedmxentites.dll.config
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\Eventedmxentites.dll
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\Eventedmxentites.pdb
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\csc.exe
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\csc.exe.config
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\csc.rsp
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\csi.exe
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\csi.exe.config
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\csi.rsp
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.targets
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\System.Buffers.dll
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\System.Collections.Immutable.dll
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\System.Memory.dll
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\System.Numerics.Vectors.dll
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\System.Reflection.Metadata.dll
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\vbc.exe
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\vbc.exe.config
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\vbc.rsp
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\VBCSCompiler.exe
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\roslyn\VBCSCompiler.exe.config
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\AjaxControlToolkit.dll
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\EntityFramework.dll
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\EntityFramework.SqlServer.dll
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\Microsoft.AspNet.DynamicData.EFProvider.dll
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\Microsoft.AspNet.EntityDataSource.dll
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\EntityFramework.xml
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\EntityFramework.SqlServer.xml
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.AssemblyReference.cache
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CoreCompileInputs.cache
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CopyComplete
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\obj\Debug\Eventedmxentites.dll
+E:\EVENT BACKUP\13-03-2024 EV\Event management 13-03-2024\Event management 11-03-2024\Eventedmxentites\obj\Debug\Eventedmxentites.pdb
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\Eventedmxentites.dll.config
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\Eventedmxentites.dll
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\Eventedmxentites.pdb
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\csc.exe
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\csc.exe.config
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\csc.rsp
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\csi.exe
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\csi.exe.config
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\csi.rsp
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\System.Buffers.dll
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\System.Collections.Immutable.dll
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\System.Memory.dll
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\System.Numerics.Vectors.dll
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\System.Reflection.Metadata.dll
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\vbc.exe
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\vbc.exe.config
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\vbc.rsp
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\VBCSCompiler.exe
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\roslyn\VBCSCompiler.exe.config
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\AjaxControlToolkit.dll
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\EntityFramework.dll
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\EntityFramework.SqlServer.dll
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\Microsoft.AspNet.DynamicData.EFProvider.dll
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\Microsoft.AspNet.EntityDataSource.dll
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\EntityFramework.xml
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\EntityFramework.SqlServer.xml
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.AssemblyReference.cache
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CoreCompileInputs.cache
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\obj\Debug\Eventedm.17A0537D.Up2Date
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\obj\Debug\Eventedmxentites.dll
+D:\BACKUP\20-03-2024\Event management 20-03-2024\Eventedmxentites\obj\Debug\Eventedmxentites.pdb
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\Eventedmxentites.dll.config
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\Eventedmxentites.dll
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\Eventedmxentites.pdb
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\csc.exe
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\csc.exe.config
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\csc.rsp
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\csi.exe
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\csi.exe.config
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\csi.rsp
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\Microsoft.Managed.Core.targets
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\System.Buffers.dll
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\System.Collections.Immutable.dll
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\System.Memory.dll
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\System.Numerics.Vectors.dll
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\System.Reflection.Metadata.dll
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\vbc.exe
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\vbc.exe.config
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\vbc.rsp
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\VBCSCompiler.exe
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\roslyn\VBCSCompiler.exe.config
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\AjaxControlToolkit.dll
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\EntityFramework.dll
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\EntityFramework.SqlServer.dll
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\Microsoft.AspNet.DynamicData.EFProvider.dll
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\Microsoft.AspNet.EntityDataSource.dll
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\EntityFramework.xml
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\EntityFramework.SqlServer.xml
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.AssemblyReference.cache
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CoreCompileInputs.cache
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\obj\Debug\Eventedmxentites.csproj.CopyComplete
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\obj\Debug\Eventedmxentites.dll
+E:\EVENT BACKUP\21-03-2023\Event management 20-03-2024\Event management 21-03-2024\Eventedmxentites\obj\Debug\Eventedmxentites.pdb

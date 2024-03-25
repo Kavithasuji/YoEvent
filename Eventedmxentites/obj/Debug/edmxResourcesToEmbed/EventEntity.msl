@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EventManagementModelStoreContainer" CdmEntityContainer="EventManagementEntities">
+    <FunctionImportMapping FunctionImportName="createusers" FunctionName="EventManagementModel.Store.createusers" />
+    <FunctionImportMapping FunctionImportName="selectevent" FunctionName="EventManagementModel.Store.selectevent">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EventManagementModel.selectevent_Result">
+          <ScalarProperty Name="E_Id" ColumnName="E_Id" />
+          <ScalarProperty Name="E_Name" ColumnName="E_Name" />
+          <ScalarProperty Name="E_Description" ColumnName="E_Description" />
+          <ScalarProperty Name="E_Sdate" ColumnName="E_Sdate" />
+          <ScalarProperty Name="E_Edate" ColumnName="E_Edate" />
+          <ScalarProperty Name="E_Venue" ColumnName="E_Venue" />
+          <ScalarProperty Name="E_LocationLink" ColumnName="E_LocationLink" />
+          <ScalarProperty Name="E_Type" ColumnName="E_Type" />
+          <ScalarProperty Name="E_Mode" ColumnName="E_Mode" />
+          <ScalarProperty Name="E_Seat" ColumnName="E_Seat" />
+          <ScalarProperty Name="E_RegisterLink" ColumnName="E_RegisterLink" />
+          <ScalarProperty Name="E_BannerImg" ColumnName="E_BannerImg" />
+          <ScalarProperty Name="E_Icon" ColumnName="E_Icon" />
+          <ScalarProperty Name="E_FloorMap" ColumnName="E_FloorMap" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="selecteventt" FunctionName="EventManagementModel.Store.selecteventt">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EventManagementModel.selecteventt_Result">
+          <ScalarProperty Name="E_Id" ColumnName="E_Id" />
+          <ScalarProperty Name="E_Name" ColumnName="E_Name" />
+          <ScalarProperty Name="E_Description" ColumnName="E_Description" />
+          <ScalarProperty Name="E_Sdate" ColumnName="E_Sdate" />
+          <ScalarProperty Name="E_Edate" ColumnName="E_Edate" />
+          <ScalarProperty Name="E_Venue" ColumnName="E_Venue" />
+          <ScalarProperty Name="E_LocationLink" ColumnName="E_LocationLink" />
+          <ScalarProperty Name="E_Type" ColumnName="E_Type" />
+          <ScalarProperty Name="E_Mode" ColumnName="E_Mode" />
+          <ScalarProperty Name="E_Seat" ColumnName="E_Seat" />
+          <ScalarProperty Name="E_RegisterLink" ColumnName="E_RegisterLink" />
+          <ScalarProperty Name="E_BannerImg" ColumnName="E_BannerImg" />
+          <ScalarProperty Name="E_Icon" ColumnName="E_Icon" />
+          <ScalarProperty Name="E_FloorMap" ColumnName="E_FloorMap" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="SelectRoom" FunctionName="EventManagementModel.Store.SelectRoom">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EventManagementModel.SelectRoom_Result">
+          <ScalarProperty Name="Room_ID" ColumnName="Room_ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Event_Venue" ColumnName="Event_Venue" />
+          <ScalarProperty Name="Location_Link" ColumnName="Location_Link" />
+          <ScalarProperty Name="Event_type" ColumnName="Event_type" />
+          <ScalarProperty Name="Equipment" ColumnName="Equipment" />
+          <ScalarProperty Name="Seat" ColumnName="Seat" />
+          <ScalarProperty Name="Room_Img" ColumnName="Room_Img" />
+          <ScalarProperty Name="Created_Date" ColumnName="Created_Date" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="selectsponcers" FunctionName="EventManagementModel.Store.selectsponcers">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EventManagementModel.selectsponcers_Result">
+          <ScalarProperty Name="S_Id" ColumnName="S_Id" />
+          <ScalarProperty Name="First_name" ColumnName="First_name" />
+          <ScalarProperty Name="Last_name" ColumnName="Last_name" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Website" ColumnName="Website" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Logo" ColumnName="Logo" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="selectusers" FunctionName="EventManagementModel.Store.selectusers">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EventManagementModel.selectusers_Result">
+          <ScalarProperty Name="User_Id" ColumnName="User_Id" />
+          <ScalarProperty Name="User_Type" ColumnName="User_Type" />
+          <ScalarProperty Name="User_Name" ColumnName="User_Name" />
+          <ScalarProperty Name="Mobile_Number" ColumnName="Mobile_Number" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Confirm_Password" ColumnName="Confirm_Password" />
+          <ScalarProperty Name="Person_type" ColumnName="Person_type" />
+          <ScalarProperty Name="Createdby" ColumnName="Createdby" />
+          <ScalarProperty Name="Createdon" ColumnName="Createdon" />
+          <ScalarProperty Name="Updateby" ColumnName="Updateby" />
+          <ScalarProperty Name="Updatedon" ColumnName="Updatedon" />
+          <ScalarProperty Name="Per_status" ColumnName="Per_status" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="updateevent" FunctionName="EventManagementModel.Store.updateevent" />
+    <FunctionImportMapping FunctionImportName="updateroom" FunctionName="EventManagementModel.Store.updateroom" />
+    <FunctionImportMapping FunctionImportName="updatesponcer" FunctionName="EventManagementModel.Store.updatesponcer" />
+    <EntitySetMapping Name="C_Room">
+      <EntityTypeMapping TypeName="EventManagementModel.C_Room">
+        <MappingFragment StoreEntitySet="C_Room">
+          <ScalarProperty Name="Created_Date" ColumnName="Created_Date" />
+          <ScalarProperty Name="Room_Img" ColumnName="Room_Img" />
+          <ScalarProperty Name="Seat" ColumnName="Seat" />
+          <ScalarProperty Name="Equipment" ColumnName="Equipment" />
+          <ScalarProperty Name="Event_type" ColumnName="Event_type" />
+          <ScalarProperty Name="Location_Link" ColumnName="Location_Link" />
+          <ScalarProperty Name="Event_Venue" ColumnName="Event_Venue" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Room_ID" ColumnName="Room_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Event_Reg">
+      <EntityTypeMapping TypeName="EventManagementModel.Event_Reg">
+        <MappingFragment StoreEntitySet="Event_Reg">
+          <ScalarProperty Name="E_Etime" ColumnName="E_Etime" />
+          <ScalarProperty Name="E_Stime" ColumnName="E_Stime" />
+          <ScalarProperty Name="E_FloorMap" ColumnName="E_FloorMap" />
+          <ScalarProperty Name="E_Icon" ColumnName="E_Icon" />
+          <ScalarProperty Name="E_BannerImg" ColumnName="E_BannerImg" />
+          <ScalarProperty Name="E_RegisterLink" ColumnName="E_RegisterLink" />
+          <ScalarProperty Name="E_Seat" ColumnName="E_Seat" />
+          <ScalarProperty Name="E_Mode" ColumnName="E_Mode" />
+          <ScalarProperty Name="E_Type" ColumnName="E_Type" />
+          <ScalarProperty Name="E_LocationLink" ColumnName="E_LocationLink" />
+          <ScalarProperty Name="E_Venue" ColumnName="E_Venue" />
+          <ScalarProperty Name="E_Edate" ColumnName="E_Edate" />
+          <ScalarProperty Name="E_Sdate" ColumnName="E_Sdate" />
+          <ScalarProperty Name="E_Description" ColumnName="E_Description" />
+          <ScalarProperty Name="E_Name" ColumnName="E_Name" />
+          <ScalarProperty Name="E_Id" ColumnName="E_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="organizers">
+      <EntityTypeMapping TypeName="EventManagementModel.organizer">
+        <MappingFragment StoreEntitySet="organizer">
+          <ScalarProperty Name="Org_Image" ColumnName="Org_Image" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Organizer_Type" ColumnName="Organizer_Type" />
+          <ScalarProperty Name="Last_Name" ColumnName="Last_Name" />
+          <ScalarProperty Name="First_Name" ColumnName="First_Name" />
+          <ScalarProperty Name="F_Id" ColumnName="F_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Reports">
+      <EntityTypeMapping TypeName="EventManagementModel.Report">
+        <MappingFragment StoreEntitySet="Report">
+          <ScalarProperty Name="date_column" ColumnName="date_column" />
+          <ScalarProperty Name="R_description" ColumnName="R_description" />
+          <ScalarProperty Name="User_Name" ColumnName="User_Name" />
+          <ScalarProperty Name="Event_Name" ColumnName="Event_Name" />
+          <ScalarProperty Name="Report_Id" ColumnName="Report_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sponcers">
+      <EntityTypeMapping TypeName="EventManagementModel.sponcer">
+        <MappingFragment StoreEntitySet="sponcer">
+          <ScalarProperty Name="Logo" ColumnName="Logo" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Website" ColumnName="Website" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Last_name" ColumnName="Last_name" />
+          <ScalarProperty Name="First_name" ColumnName="First_name" />
+          <ScalarProperty Name="S_Id" ColumnName="S_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="User_Mgt">
+      <EntityTypeMapping TypeName="EventManagementModel.User_Mgt">
+        <MappingFragment StoreEntitySet="User_Mgt">
+          <ScalarProperty Name="Per_status" ColumnName="Per_status" />
+          <ScalarProperty Name="Updatedon" ColumnName="Updatedon" />
+          <ScalarProperty Name="Updateby" ColumnName="Updateby" />
+          <ScalarProperty Name="Createdon" ColumnName="Createdon" />
+          <ScalarProperty Name="Createdby" ColumnName="Createdby" />
+          <ScalarProperty Name="Person_type" ColumnName="Person_type" />
+          <ScalarProperty Name="Confirm_Password" ColumnName="Confirm_Password" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Mobile_Number" ColumnName="Mobile_Number" />
+          <ScalarProperty Name="User_Name" ColumnName="User_Name" />
+          <ScalarProperty Name="User_Type" ColumnName="User_Type" />
+          <ScalarProperty Name="User_Id" ColumnName="User_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Schedule_Event">
+      <EntityTypeMapping TypeName="EventManagementModel.Schedule_Event">
+        <MappingFragment StoreEntitySet="Schedule_Event">
+          <ScalarProperty Name="S_Organizer" ColumnName="S_Organizer" />
+          <ScalarProperty Name="S_Sponsor" ColumnName="S_Sponsor" />
+          <ScalarProperty Name="S_Room" ColumnName="S_Room" />
+          <ScalarProperty Name="S_Venue" ColumnName="S_Venue" />
+          <ScalarProperty Name="S_Etime" ColumnName="S_Etime" />
+          <ScalarProperty Name="S_Stime" ColumnName="S_Stime" />
+          <ScalarProperty Name="S_Edate" ColumnName="S_Edate" />
+          <ScalarProperty Name="S_Sdate" ColumnName="S_Sdate" />
+          <ScalarProperty Name="S_Description" ColumnName="S_Description" />
+          <ScalarProperty Name="S_Event" ColumnName="S_Event" />
+          <ScalarProperty Name="S_Id" ColumnName="S_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="EventManagementModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="definition" ColumnName="definition" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="GetEventDetails" FunctionName="EventManagementModel.Store.GetEventDetails">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EventManagementModel.GetEventDetails_Result">
+          <ScalarProperty Name="S_Id" ColumnName="S_Id" />
+          <ScalarProperty Name="S_Event" ColumnName="S_Event" />
+          <ScalarProperty Name="S_Description" ColumnName="S_Description" />
+          <ScalarProperty Name="S_Sdate" ColumnName="S_Sdate" />
+          <ScalarProperty Name="S_Edate" ColumnName="S_Edate" />
+          <ScalarProperty Name="S_Stime" ColumnName="S_Stime" />
+          <ScalarProperty Name="S_Etime" ColumnName="S_Etime" />
+          <ScalarProperty Name="S_Venue" ColumnName="S_Venue" />
+          <ScalarProperty Name="S_Room" ColumnName="S_Room" />
+          <ScalarProperty Name="Organizer_First_Name" ColumnName="Organizer_First_Name" />
+          <ScalarProperty Name="Organizer_Last_Name" ColumnName="Organizer_Last_Name" />
+          <ScalarProperty Name="Sponsor_First_Name" ColumnName="Sponsor_First_Name" />
+          <ScalarProperty Name="Sponsor_Last_Name" ColumnName="Sponsor_Last_Name" />
+          <ScalarProperty Name="Room_Name" ColumnName="Room_Name" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="GetEventRegistrationDetails" FunctionName="EventManagementModel.Store.GetEventRegistrationDetails">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EventManagementModel.GetEventRegistrationDetails_Result">
+          <ScalarProperty Name="E_Id" ColumnName="E_Id" />
+          <ScalarProperty Name="E_Name" ColumnName="E_Name" />
+          <ScalarProperty Name="E_Description" ColumnName="E_Description" />
+          <ScalarProperty Name="E_Sdate" ColumnName="E_Sdate" />
+          <ScalarProperty Name="E_Edate" ColumnName="E_Edate" />
+          <ScalarProperty Name="E_Stime" ColumnName="E_Stime" />
+          <ScalarProperty Name="E_Etime" ColumnName="E_Etime" />
+          <ScalarProperty Name="E_Venue" ColumnName="E_Venue" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ScheduleOrganizer" FunctionName="EventManagementModel.Store.ScheduleOrganizer">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EventManagementModel.ScheduleOrganizer_Result">
+          <ScalarProperty Name="FullName" ColumnName="FullName" />
+          <ScalarProperty Name="F_Id" ColumnName="F_Id" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ScheduleRoom" FunctionName="EventManagementModel.Store.ScheduleRoom">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EventManagementModel.ScheduleRoom_Result">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Room_ID" ColumnName="Room_ID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ScheduleSponcer" FunctionName="EventManagementModel.Store.ScheduleSponcer">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EventManagementModel.ScheduleSponcer_Result">
+          <ScalarProperty Name="FullName" ColumnName="FullName" />
+          <ScalarProperty Name="S_Id" ColumnName="S_Id" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="EventManagementModel.Store.sp_alterdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="EventManagementModel.Store.sp_creatediagram" />
+    <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="EventManagementModel.Store.sp_dropdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="EventManagementModel.Store.sp_helpdiagramdefinition">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EventManagementModel.sp_helpdiagramdefinition_Result">
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="EventManagementModel.Store.sp_helpdiagrams">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EventManagementModel.sp_helpdiagrams_Result">
+          <ScalarProperty Name="Database" ColumnName="Database" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Owner" ColumnName="Owner" />
+          <ScalarProperty Name="OwnerID" ColumnName="OwnerID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="EventManagementModel.Store.sp_renamediagram" />
+    <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="EventManagementModel.Store.sp_upgraddiagrams" />
+    <FunctionImportMapping FunctionImportName="UpdateSchedule" FunctionName="EventManagementModel.Store.UpdateSchedule" />
+  </EntityContainerMapping>
+</Mapping>

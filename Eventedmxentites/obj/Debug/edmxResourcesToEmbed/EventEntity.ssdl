@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EventManagementModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="C_Room">
+    <Key>
+      <PropertyRef Name="Room_ID" />
+    </Key>
+    <Property Name="Room_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+    <Property Name="Description" Type="varchar" MaxLength="2000" />
+    <Property Name="Event_Venue" Type="varchar" MaxLength="100" />
+    <Property Name="Location_Link" Type="varchar" MaxLength="255" />
+    <Property Name="Event_type" Type="varchar" MaxLength="50" />
+    <Property Name="Equipment" Type="varchar" MaxLength="100" />
+    <Property Name="Seat" Type="int" />
+    <Property Name="Room_Img" Type="varchar" MaxLength="255" />
+    <Property Name="Created_Date" Type="date" />
+  </EntityType>
+  <EntityType Name="Event_Reg">
+    <Key>
+      <PropertyRef Name="E_Id" />
+    </Key>
+    <Property Name="E_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="E_Name" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="E_Sdate" Type="date" />
+    <Property Name="E_Edate" Type="date" />
+    <Property Name="E_Venue" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="E_LocationLink" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="E_Type" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="E_Mode" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="E_Seat" Type="int" Nullable="false" />
+    <Property Name="E_RegisterLink" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="E_BannerImg" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="E_Icon" Type="varchar" MaxLength="255" />
+    <Property Name="E_FloorMap" Type="varchar" MaxLength="255" />
+    <Property Name="E_Stime" Type="time" Precision="7" Nullable="false" />
+    <Property Name="E_Etime" Type="time" Precision="7" Nullable="false" />
+    <Property Name="E_Description" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="organizer">
+    <Key>
+      <PropertyRef Name="F_Id" />
+    </Key>
+    <Property Name="F_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="First_Name" Type="varchar" MaxLength="255" />
+    <Property Name="Last_Name" Type="varchar" MaxLength="255" />
+    <Property Name="Organizer_Type" Type="varchar" MaxLength="50" />
+    <Property Name="Email" Type="varchar" MaxLength="255" />
+    <Property Name="Phone" Type="bigint" />
+    <Property Name="Org_Image" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="Report">
+    <Key>
+      <PropertyRef Name="Report_Id" />
+    </Key>
+    <Property Name="Report_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Event_Name" Type="varchar" MaxLength="50" />
+    <Property Name="User_Name" Type="varchar" MaxLength="50" />
+    <Property Name="R_description" Type="varchar" MaxLength="1000" />
+    <Property Name="date_column" Type="date" />
+  </EntityType>
+  <EntityType Name="Schedule_Event">
+    <Key>
+      <PropertyRef Name="S_Id" />
+    </Key>
+    <Property Name="S_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="S_Event" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="S_Description" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="S_Sdate" Type="datetime" Nullable="false" />
+    <Property Name="S_Edate" Type="datetime" Nullable="false" />
+    <Property Name="S_Stime" Type="time" Precision="7" Nullable="false" />
+    <Property Name="S_Etime" Type="time" Precision="7" Nullable="false" />
+    <Property Name="S_Venue" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="S_Room" Type="varchar" MaxLength="255" />
+    <Property Name="S_Sponsor" Type="varchar" MaxLength="255" />
+    <Property Name="S_Organizer" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="sponcer">
+    <Key>
+      <PropertyRef Name="S_Id" />
+    </Key>
+    <Property Name="S_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="First_name" Type="varchar" MaxLength="255" />
+    <Property Name="Last_name" Type="varchar" MaxLength="255" />
+    <Property Name="Description" Type="varchar" MaxLength="255" />
+    <Property Name="Website" Type="varchar" MaxLength="255" />
+    <Property Name="Email" Type="varchar" MaxLength="255" />
+    <Property Name="Phone" Type="bigint" />
+    <Property Name="Logo" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="User_Mgt">
+    <Key>
+      <PropertyRef Name="User_Id" />
+    </Key>
+    <Property Name="User_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="User_Type" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="User_Name" Type="varchar" MaxLength="1000" Nullable="false" />
+    <Property Name="Mobile_Number" Type="bigint" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="Confirm_Password" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Person_type" Type="varchar" MaxLength="100" />
+    <Property Name="Createdby" Type="varchar" MaxLength="255" />
+    <Property Name="Createdon" Type="date" />
+    <Property Name="Updateby" Type="varchar" MaxLength="255" />
+    <Property Name="Updatedon" Type="date" />
+    <Property Name="Per_status" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <Function Name="createusers" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User_Id" Type="int" Mode="In" />
+    <Parameter Name="User_Name" Type="varchar" Mode="In" />
+    <Parameter Name="Mobile_Number" Type="bigint" Mode="In" />
+    <Parameter Name="Email" Type="varchar" Mode="In" />
+    <Parameter Name="Password" Type="varchar" Mode="In" />
+    <Parameter Name="Person_type" Type="varchar" Mode="In" />
+    <Parameter Name="Per_status" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="fn_diagramobjects" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="int" />
+  <Function Name="GetEventDetails" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="GetEventRegistrationDetails" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="ScheduleOrganizer" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="ScheduleRoom" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="ScheduleSponcer" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="selectevent" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="E_Id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="selecteventt" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="E_Id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="SelectRoom" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Room_Id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="selectsponcers" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="S_Id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="selectusers" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User_Id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_alterdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_creatediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_dropdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagramdefinition" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_renamediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="new_diagramname" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="sp_upgraddiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="updateevent" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="E_Id" Type="int" Mode="In" />
+    <Parameter Name="E_Name" Type="varchar" Mode="In" />
+    <Parameter Name="E_Description" Type="varchar" Mode="In" />
+    <Parameter Name="E_SDate" Type="date" Mode="In" />
+    <Parameter Name="E_EDate" Type="date" Mode="In" />
+    <Parameter Name="E_Venue" Type="varchar" Mode="In" />
+    <Parameter Name="E_LocationLink" Type="varchar" Mode="In" />
+    <Parameter Name="E_Type" Type="varchar" Mode="In" />
+    <Parameter Name="E_Mode" Type="varchar" Mode="In" />
+    <Parameter Name="E_Seat" Type="int" Mode="In" />
+    <Parameter Name="E_RegisterLink" Type="varchar" Mode="In" />
+    <Parameter Name="E_BannerImg" Type="varchar" Mode="In" />
+    <Parameter Name="E_Icon" Type="varchar" Mode="In" />
+    <Parameter Name="E_FloorMap" Type="varchar" Mode="In" />
+    <Parameter Name="E_Stime" Type="time" Mode="In" />
+    <Parameter Name="E_Etime" Type="time" Mode="In" />
+  </Function>
+  <Function Name="updateroom" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Room_ID" Type="int" Mode="In" />
+    <Parameter Name="Name" Type="varchar" Mode="In" />
+    <Parameter Name="Description" Type="varchar" Mode="In" />
+    <Parameter Name="Venue" Type="varchar" Mode="In" />
+    <Parameter Name="Location" Type="varchar" Mode="In" />
+    <Parameter Name="Type" Type="varchar" Mode="In" />
+    <Parameter Name="Equipment" Type="varchar" Mode="In" />
+    <Parameter Name="Seat" Type="int" Mode="In" />
+    <Parameter Name="Room_Img" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="UpdateSchedule" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="S_Id" Type="int" Mode="In" />
+    <Parameter Name="S_Event" Type="varchar" Mode="In" />
+    <Parameter Name="S_Description" Type="nvarchar(max)" Mode="In" />
+    <Parameter Name="S_Sdate" Type="datetime" Mode="In" />
+    <Parameter Name="S_Edate" Type="datetime" Mode="In" />
+    <Parameter Name="S_Stime" Type="time" Mode="In" />
+    <Parameter Name="S_Etime" Type="time" Mode="In" />
+    <Parameter Name="S_Venue" Type="varchar" Mode="In" />
+    <Parameter Name="S_Room" Type="varchar" Mode="In" />
+    <Parameter Name="S_Sponsor" Type="varchar" Mode="In" />
+    <Parameter Name="S_Organizer" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="updatesponcer" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="S_Id" Type="int" Mode="In" />
+    <Parameter Name="First_name" Type="varchar" Mode="In" />
+    <Parameter Name="Last_name" Type="varchar" Mode="In" />
+    <Parameter Name="Description" Type="varchar" Mode="In" />
+    <Parameter Name="Website" Type="varchar" Mode="In" />
+    <Parameter Name="Em" Type="varchar" Mode="In" />
+    <Parameter Name="Phone" Type="bigint" Mode="In" />
+    <Parameter Name="Logo" Type="varchar" Mode="In" />
+  </Function>
+  <EntityContainer Name="EventManagementModelStoreContainer">
+    <EntitySet Name="C_Room" EntityType="Self.C_Room" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Event_Reg" EntityType="Self.Event_Reg" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="organizer" EntityType="Self.organizer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Report" EntityType="Self.Report" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Schedule_Event" EntityType="Self.Schedule_Event" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sponcer" EntityType="Self.sponcer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User_Mgt" EntityType="Self.User_Mgt" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

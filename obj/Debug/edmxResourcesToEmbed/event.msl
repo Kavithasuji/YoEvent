@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EventManagementModelStoreContainer" CdmEntityContainer="EventManagementEntities">
+    <EntitySetMapping Name="User_Mgt">
+      <EntityTypeMapping TypeName="EventManagementModel.User_Mgt">
+        <MappingFragment StoreEntitySet="User_Mgt">
+          <ScalarProperty Name="User_Id" ColumnName="User_Id" />
+          <ScalarProperty Name="User_Type" ColumnName="User_Type" />
+          <ScalarProperty Name="User_Name" ColumnName="User_Name" />
+          <ScalarProperty Name="Mobile_Number" ColumnName="Mobile_Number" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Confirm_Password" ColumnName="Confirm_Password" />
+          <ScalarProperty Name="Person_type" ColumnName="Person_type" />
+          <ScalarProperty Name="Createdby" ColumnName="Createdby" />
+          <ScalarProperty Name="Createdon" ColumnName="Createdon" />
+          <ScalarProperty Name="Updateby" ColumnName="Updateby" />
+          <ScalarProperty Name="Updatedon" ColumnName="Updatedon" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EventManagementModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="EventManagementEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="createusers">
+      <Parameter Name="User_Id" Mode="In" Type="Int32" />
+      <Parameter Name="User_Name" Mode="In" Type="String" />
+      <Parameter Name="Mobile_Number" Mode="In" Type="Int64" />
+      <Parameter Name="Email" Mode="In" Type="String" />
+      <Parameter Name="Password" Mode="In" Type="String" />
+      <Parameter Name="Person_type" Mode="In" Type="String" />
+      <Parameter Name="Per_status" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="selectevent" ReturnType="Collection(EventManagementModel.selectevent_Result)">
+      <Parameter Name="E_Id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="selecteventt" ReturnType="Collection(EventManagementModel.selecteventt_Result)">
+      <Parameter Name="E_Id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="SelectRoom" ReturnType="Collection(EventManagementModel.SelectRoom_Result)">
+      <Parameter Name="Room_Id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="selectsponcers" ReturnType="Collection(EventManagementModel.selectsponcers_Result)">
+      <Parameter Name="S_Id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="selectusers" ReturnType="Collection(EventManagementModel.selectusers_Result)">
+      <Parameter Name="User_Id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="updateevent">
+      <Parameter Name="E_Id" Mode="In" Type="Int32" />
+      <Parameter Name="E_Name" Mode="In" Type="String" />
+      <Parameter Name="E_Description" Mode="In" Type="String" />
+      <Parameter Name="E_SDate" Mode="In" Type="DateTime" />
+      <Parameter Name="E_EDate" Mode="In" Type="DateTime" />
+      <Parameter Name="E_Venue" Mode="In" Type="String" />
+      <Parameter Name="E_LocationLink" Mode="In" Type="String" />
+      <Parameter Name="E_Type" Mode="In" Type="String" />
+      <Parameter Name="E_Mode" Mode="In" Type="String" />
+      <Parameter Name="E_Seat" Mode="In" Type="Int32" />
+      <Parameter Name="E_RegisterLink" Mode="In" Type="String" />
+      <Parameter Name="E_BannerImg" Mode="In" Type="String" />
+      <Parameter Name="E_Icon" Mode="In" Type="String" />
+      <Parameter Name="E_FloorMap" Mode="In" Type="String" />
+      <Parameter Name="E_Stime" Mode="In" Type="Time" />
+      <Parameter Name="E_Etime" Mode="In" Type="Time" />
+    </FunctionImport>
+    <FunctionImport Name="updateroom">
+      <Parameter Name="Room_ID" Mode="In" Type="Int32" />
+      <Parameter Name="Name" Mode="In" Type="String" />
+      <Parameter Name="Description" Mode="In" Type="String" />
+      <Parameter Name="Venue" Mode="In" Type="String" />
+      <Parameter Name="Location" Mode="In" Type="String" />
+      <Parameter Name="Type" Mode="In" Type="String" />
+      <Parameter Name="Equipment" Mode="In" Type="String" />
+      <Parameter Name="Seat" Mode="In" Type="Int32" />
+      <Parameter Name="Room_Img" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="updatesponcer">
+      <Parameter Name="S_Id" Mode="In" Type="Int32" />
+      <Parameter Name="First_name" Mode="In" Type="String" />
+      <Parameter Name="Last_name" Mode="In" Type="String" />
+      <Parameter Name="Description" Mode="In" Type="String" />
+      <Parameter Name="Website" Mode="In" Type="String" />
+      <Parameter Name="Em" Mode="In" Type="String" />
+      <Parameter Name="Phone" Mode="In" Type="Int64" />
+      <Parameter Name="Logo" Mode="In" Type="String" />
+    </FunctionImport>
+    <EntitySet Name="C_Room" EntityType="EventManagementModel.C_Room" />
+    <EntitySet Name="Event_Reg" EntityType="EventManagementModel.Event_Reg" />
+    <EntitySet Name="organizers" EntityType="EventManagementModel.organizer" />
+    <EntitySet Name="Reports" EntityType="EventManagementModel.Report" />
+    <EntitySet Name="sponcers" EntityType="EventManagementModel.sponcer" />
+    <EntitySet Name="User_Mgt" EntityType="EventManagementModel.User_Mgt" />
+    <EntitySet Name="Schedule_Event" EntityType="EventManagementModel.Schedule_Event" />
+    <EntitySet Name="sysdiagrams" EntityType="EventManagementModel.sysdiagram" />
+    <FunctionImport Name="GetEventDetails" ReturnType="Collection(EventManagementModel.GetEventDetails_Result)" />
+    <FunctionImport Name="GetEventRegistrationDetails" ReturnType="Collection(EventManagementModel.GetEventRegistrationDetails_Result)" />
+    <FunctionImport Name="ScheduleOrganizer" ReturnType="Collection(EventManagementModel.ScheduleOrganizer_Result)" />
+    <FunctionImport Name="ScheduleRoom" ReturnType="Collection(EventManagementModel.ScheduleRoom_Result)" />
+    <FunctionImport Name="ScheduleSponcer" ReturnType="Collection(EventManagementModel.ScheduleSponcer_Result)" />
+    <FunctionImport Name="sp_alterdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition" ReturnType="Collection(EventManagementModel.sp_helpdiagramdefinition_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams" ReturnType="Collection(EventManagementModel.sp_helpdiagrams_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams" />
+    <FunctionImport Name="UpdateSchedule">
+      <Parameter Name="S_Id" Mode="In" Type="Int32" />
+      <Parameter Name="S_Event" Mode="In" Type="String" />
+      <Parameter Name="S_Description" Mode="In" Type="String" />
+      <Parameter Name="S_Sdate" Mode="In" Type="DateTime" />
+      <Parameter Name="S_Edate" Mode="In" Type="DateTime" />
+      <Parameter Name="S_Stime" Mode="In" Type="Time" />
+      <Parameter Name="S_Etime" Mode="In" Type="Time" />
+      <Parameter Name="S_Venue" Mode="In" Type="String" />
+      <Parameter Name="S_Room" Mode="In" Type="String" />
+      <Parameter Name="S_Sponsor" Mode="In" Type="String" />
+      <Parameter Name="S_Organizer" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="selectevent_Result">
+    <Property Type="Int32" Name="E_Id" Nullable="false" />
+    <Property Type="String" Name="E_Name" Nullable="false" MaxLength="255" />
+    <Property Type="String" Name="E_Description" Nullable="false" MaxLength="1000" />
+    <Property Type="DateTime" Name="E_Sdate" Nullable="true" />
+    <Property Type="DateTime" Name="E_Edate" Nullable="true" />
+    <Property Type="String" Name="E_Venue" Nullable="false" MaxLength="255" />
+    <Property Type="String" Name="E_LocationLink" Nullable="false" MaxLength="255" />
+    <Property Type="String" Name="E_Type" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="E_Mode" Nullable="false" MaxLength="100" />
+    <Property Type="Int32" Name="E_Seat" Nullable="false" />
+    <Property Type="String" Name="E_RegisterLink" Nullable="false" MaxLength="255" />
+    <Property Type="String" Name="E_BannerImg" Nullable="false" MaxLength="255" />
+    <Property Type="String" Name="E_Icon" Nullable="true" MaxLength="255" />
+    <Property Type="String" Name="E_FloorMap" Nullable="true" MaxLength="255" />
+  </ComplexType>
+  <ComplexType Name="selecteventt_Result">
+    <Property Type="Int32" Name="E_Id" Nullable="false" />
+    <Property Type="String" Name="E_Name" Nullable="false" MaxLength="255" />
+    <Property Type="String" Name="E_Description" Nullable="false" MaxLength="1000" />
+    <Property Type="DateTime" Name="E_Sdate" Nullable="true" />
+    <Property Type="DateTime" Name="E_Edate" Nullable="true" />
+    <Property Type="String" Name="E_Venue" Nullable="false" MaxLength="255" />
+    <Property Type="String" Name="E_LocationLink" Nullable="false" MaxLength="255" />
+    <Property Type="String" Name="E_Type" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="E_Mode" Nullable="false" MaxLength="100" />
+    <Property Type="Int32" Name="E_Seat" Nullable="false" />
+    <Property Type="String" Name="E_RegisterLink" Nullable="false" MaxLength="255" />
+    <Property Type="String" Name="E_BannerImg" Nullable="false" MaxLength="255" />
+    <Property Type="String" Name="E_Icon" Nullable="true" MaxLength="255" />
+    <Property Type="String" Name="E_FloorMap" Nullable="true" MaxLength="255" />
+  </ComplexType>
+  <ComplexType Name="SelectRoom_Result">
+    <Property Type="Int32" Name="Room_ID" Nullable="false" />
+    <Property Type="String" Name="Name" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Description" Nullable="true" MaxLength="2000" />
+    <Property Type="String" Name="Event_Venue" Nullable="true" MaxLength="100" />
+    <Property Type="String" Name="Location_Link" Nullable="true" MaxLength="255" />
+    <Property Type="String" Name="Event_type" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Equipment" Nullable="true" MaxLength="100" />
+    <Property Type="Int32" Name="Seat" Nullable="true" />
+    <Property Type="String" Name="Room_Img" Nullable="true" MaxLength="255" />
+    <Property Type="DateTime" Name="Created_Date" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="selectsponcers_Result">
+    <Property Type="Int32" Name="S_Id" Nullable="false" />
+    <Property Type="String" Name="First_name" Nullable="true" MaxLength="255" />
+    <Property Type="String" Name="Last_name" Nullable="true" MaxLength="255" />
+    <Property Type="String" Name="Description" Nullable="true" MaxLength="255" />
+    <Property Type="String" Name="Website" Nullable="true" MaxLength="255" />
+    <Property Type="String" Name="Email" Nullable="true" MaxLength="255" />
+    <Property Type="Int64" Name="Phone" Nullable="true" />
+    <Property Type="String" Name="Logo" Nullable="true" MaxLength="255" />
+  </ComplexType>
+  <ComplexType Name="selectusers_Result">
+    <Property Type="Int32" Name="User_Id" Nullable="false" />
+    <Property Type="String" Name="User_Type" Nullable="false" MaxLength="255" />
+    <Property Type="String" Name="User_Name" Nullable="false" MaxLength="1000" />
+    <Property Type="Int64" Name="Mobile_Number" Nullable="false" />
+    <Property Type="String" Name="Email" Nullable="false" MaxLength="255" />
+    <Property Type="String" Name="Password" Nullable="false" MaxLength="255" />
+    <Property Type="String" Name="Confirm_Password" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="Person_type" Nullable="true" MaxLength="100" />
+    <Property Type="String" Name="Createdby" Nullable="true" MaxLength="255" />
+    <Property Type="DateTime" Name="Createdon" Nullable="true" />
+    <Property Type="String" Name="Updateby" Nullable="true" MaxLength="255" />
+    <Property Type="DateTime" Name="Updatedon" Nullable="true" />
+    <Property Type="String" Name="Per_status" Nullable="true" MaxLength="255" />
+  </ComplexType>
+  <EntityType Name="C_Room">
+    <Key>
+      <PropertyRef Name="Room_ID" />
+    </Key>
+    <Property Name="Room_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Description" Type="String" MaxLength="2000" FixedLength="false" Unicode="false" />
+    <Property Name="Event_Venue" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Location_Link" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Event_type" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Equipment" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Seat" Type="Int32" />
+    <Property Name="Room_Img" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Created_Date" Type="DateTime" Precision="0" />
+  </EntityType>
+  <EntityType Name="Event_Reg">
+    <Key>
+      <PropertyRef Name="E_Id" />
+    </Key>
+    <Property Name="E_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="E_Name" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="E_Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="E_Sdate" Type="DateTime" Precision="0" />
+    <Property Name="E_Edate" Type="DateTime" Precision="0" />
+    <Property Name="E_Venue" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="E_LocationLink" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="E_Type" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="E_Mode" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="E_Seat" Type="Int32" Nullable="false" />
+    <Property Name="E_RegisterLink" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="E_BannerImg" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="E_Icon" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="E_FloorMap" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="E_Stime" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="E_Etime" Type="Time" Nullable="false" Precision="7" />
+  </EntityType>
+  <EntityType Name="organizer">
+    <Key>
+      <PropertyRef Name="F_Id" />
+    </Key>
+    <Property Name="F_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="First_Name" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Last_Name" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Organizer_Type" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Phone" Type="Int64" />
+    <Property Name="Org_Image" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Report">
+    <Key>
+      <PropertyRef Name="Report_Id" />
+    </Key>
+    <Property Name="Report_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Event_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="User_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="R_description" Type="String" MaxLength="1000" FixedLength="false" Unicode="false" />
+    <Property Name="date_column" Type="DateTime" Precision="0" />
+  </EntityType>
+  <EntityType Name="sponcer">
+    <Key>
+      <PropertyRef Name="S_Id" />
+    </Key>
+    <Property Name="S_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="First_name" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Last_name" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Description" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Website" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Phone" Type="Int64" />
+    <Property Name="Logo" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="User_Mgt">
+    <Key>
+      <PropertyRef Name="User_Id" />
+    </Key>
+    <Property Name="User_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="User_Type" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="User_Name" Type="String" Nullable="false" MaxLength="1000" FixedLength="false" Unicode="false" />
+    <Property Name="Mobile_Number" Type="Int64" Nullable="false" />
+    <Property Name="Email" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Password" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Confirm_Password" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Person_type" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Createdby" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Createdon" Type="DateTime" Precision="0" />
+    <Property Name="Updateby" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Updatedon" Type="DateTime" Precision="0" />
+    <Property Name="Per_status" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Schedule_Event">
+    <Key>
+      <PropertyRef Name="S_Id" />
+    </Key>
+    <Property Name="S_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="S_Event" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="S_Description" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="S_Sdate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="S_Edate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="S_Stime" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="S_Etime" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="S_Venue" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="S_Room" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="S_Sponsor" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="S_Organizer" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <ComplexType Name="GetEventDetails_Result">
+    <Property Type="Int32" Name="S_Id" Nullable="false" />
+    <Property Type="String" Name="S_Event" Nullable="false" MaxLength="255" />
+    <Property Type="String" Name="S_Description" Nullable="false" />
+    <Property Type="DateTime" Name="S_Sdate" Nullable="false" Precision="23" />
+    <Property Type="DateTime" Name="S_Edate" Nullable="false" Precision="23" />
+    <Property Type="Time" Name="S_Stime" Nullable="false" />
+    <Property Type="Time" Name="S_Etime" Nullable="false" />
+    <Property Type="String" Name="S_Venue" Nullable="false" MaxLength="255" />
+    <Property Type="String" Name="S_Room" Nullable="true" MaxLength="255" />
+    <Property Type="String" Name="Organizer_First_Name" Nullable="true" MaxLength="255" />
+    <Property Type="String" Name="Organizer_Last_Name" Nullable="true" MaxLength="255" />
+    <Property Type="String" Name="Sponsor_First_Name" Nullable="true" MaxLength="255" />
+    <Property Type="String" Name="Sponsor_Last_Name" Nullable="true" MaxLength="255" />
+    <Property Type="String" Name="Room_Name" Nullable="true" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="GetEventRegistrationDetails_Result">
+    <Property Type="Int32" Name="E_Id" Nullable="false" />
+    <Property Type="String" Name="E_Name" Nullable="false" MaxLength="255" />
+    <Property Type="String" Name="E_Description" Nullable="true" />
+    <Property Type="DateTime" Name="E_Sdate" Nullable="true" />
+    <Property Type="DateTime" Name="E_Edate" Nullable="true" />
+    <Property Type="Time" Name="E_Stime" Nullable="false" />
+    <Property Type="Time" Name="E_Etime" Nullable="false" />
+    <Property Type="String" Name="E_Venue" Nullable="false" MaxLength="255" />
+  </ComplexType>
+  <ComplexType Name="ScheduleOrganizer_Result">
+    <Property Type="String" Name="FullName" Nullable="false" MaxLength="511" />
+    <Property Type="Int32" Name="F_Id" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="ScheduleRoom_Result">
+    <Property Type="String" Name="Name" Nullable="true" MaxLength="50" />
+    <Property Type="Int32" Name="Room_ID" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="ScheduleSponcer_Result">
+    <Property Type="String" Name="FullName" Nullable="false" MaxLength="511" />
+    <Property Type="Int32" Name="S_Id" Nullable="false" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagramdefinition_Result">
+    <Property Type="Int32" Name="version" Nullable="true" />
+    <Property Type="Binary" Name="definition" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagrams_Result">
+    <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+    <Property Type="Int32" Name="OwnerID" Nullable="false" />
+  </ComplexType>
+</Schema>

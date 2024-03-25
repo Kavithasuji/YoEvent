@@ -1,0 +1,227 @@
+@import url('styles.css');
+
+.navbar .btn-outline-light:hover {
+  color: var(--bs-dark);
+}
+
+.navbar {
+  transition: all 0.5s ease-in-out;
+}
+
+.navbar-sticky {
+  opacity: 0.9;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.header {
+  background: url(../images/header-background.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+.modal-dialog {
+  max-width: 1040px;
+}
+
+.download {
+  background: url("../images/download-background.jpg") center center no-repeat;
+  background-size: cover;
+}
+
+.map iframe {
+  left: 0;
+  top: 0;
+  height: 400px;
+  width: 100%;
+  border: none;
+}
+
+@media (max-width: 1000px) {
+  .navbar {
+    background: var(--bs-dark);
+  }
+  .hero .image-container {
+    display: flex;
+    justify-content: center;
+  }
+  .hero .text-container {
+    text-align: center;
+  }
+}
+
+.social-icons i {
+    transition: color 0.3s ease;
+}
+
+    .social-icons i:hover {
+        color: #c167eb; /* Change to the color you prefer on hover */
+    }
+
+    /* calander */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+.wrapper {
+    width: 450px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 15px 40px rgba(0,0,0,0.12);
+}
+
+    .wrapper header {
+        display: flex;
+        align-items: center;
+        padding: 25px 30px 10px;
+        justify-content: space-between;
+    }
+
+header .icons {
+    display: flex;
+}
+
+    header .icons span {
+        height: 38px;
+        width: 38px;
+        margin: 0 1px;
+        cursor: pointer;
+        color: #878787;
+        text-align: center;
+        line-height: 38px;
+        font-size: 1.9rem;
+        user-select: none;
+        border-radius: 50%;
+    }
+
+.icons span:last-child {
+    margin-right: -10px;
+}
+
+header .icons span:hover {
+    background: #f2f2f2;
+}
+
+header .current-date {
+    font-size: 1.45rem;
+    font-weight: 500;
+}
+
+.calendar {
+    padding: 20px;
+}
+
+    .calendar ul {
+        display: flex;
+        flex-wrap: wrap;
+        list-style: none;
+        text-align: center;
+    }
+
+    .calendar .days {
+        margin-bottom: 20px;
+    }
+
+    .calendar li {
+        color: #333;
+        width: calc(100% / 7);
+        font-size: 1.07rem;
+    }
+
+    .calendar .weeks li {
+        font-weight: 500;
+        cursor: default;
+    }
+
+    .calendar .days li {
+        z-index: 1;
+        cursor: pointer;
+        position: relative;
+        margin-top: 30px;
+    }
+
+.days li.inactive {
+    color: #aaa;
+}
+
+.days li.active {
+    color: #fff;
+}
+
+.days li::before {
+    position: absolute;
+    content: "";
+    left: 50%;
+    top: 50%;
+    height: 40px;
+    width: 40px;
+    z-index: -1;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.days li.active::before {
+    background: #9B59B6;
+}
+
+.days li:not(.active):hover::before {
+    background: #f2f2f2;
+}r
+a      tran
+
+
+/* Define the left-to-right animation */
+@keyframes slideInLeft {
+    from {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+/* Define the right-to-left animation */
+@keyframes slideInRight {
+    from {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+/* Apply left-to-right animation to odd-numbered cards */
+.animate-left-to-right {
+    animation: slideInLeft 2s ease-out forwards;
+}
+
+/* Apply right-to-left animation to even-numbered cards */
+.animate-right-to-left {
+    animation: slideInRight 2s ease-out forwards;
+}
+
+/* Define the slide-in animation */
+@keyframes slideIn {
+    from {
+        transform: translateX(-50%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+/* Apply slide-in animation to the card elements */
+.animate-card {
+    animation: slideIn 2s ease-out forwards;
+}
+
+.sec{
+    height:1000px;
+    width:100%;
+}

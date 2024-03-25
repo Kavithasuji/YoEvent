@@ -1,0 +1,118 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="master.master.cs" Inherits="Event_management.master" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>yoevent</title>
+      <link
+    href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="css/font-awesome.css" />
+  <link rel="stylesheet" href="css/bootstrap.css" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="icon" href="images/favicon.png" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+          <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg fixed-top navbar-dark">
+    <div class="container">
+      <a href="content.aspx" class="navbar-brand">
+        <img src="images/logo.png" alt="" width="225" />
+      </a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarNavDropdown"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a href="content.aspx" class="nav-link fw-semibold ms-3">About Us</a>
+          </li>
+            <li class="nav-item">
+                <a href="content.aspx#events" class="nav-link fw-semibold ms-3">Event</a>
+            </li>
+          <li class="nav-item">
+            <a href="content.aspx#feat" class="nav-link fw-semibold ms-3">Components</a>
+          </li>
+          <li class="nav-item">
+            <a href="contact.aspx" class="nav-link fw-semibold ms-3">Reach Us</a>
+          </li>
+          <li class="nav-item">
+            <a
+              href="register.aspx"
+              class="nav-link btn btn-outline-light fw-semibold px-4 ms-3"
+              >Register</a>
+          </li>
+          <li class="nav-item">
+          <a
+               href="login.aspx"
+               class="nav-link btn btn-outline-light fw-semibold px-4 ms-2"
+               >Login</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+
+
+       
+
+
+        <!-- content placeholder -->
+
+ <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+</asp:ContentPlaceHolder>
+
+
+        <!-- Footer -->
+    <footer class="border-top border-primary bg-dark text-white py-4">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8">
+            <ul class="nav">
+              <li class="nav-item">
+                <a href="#about" class="nav-link link-light">About us</a>
+              </li>
+              <li class="nav-item">
+                <a href="content.aspx#events" class="nav-link link-light">Event</a>
+              </li>
+              <li class="nav-item">
+                <a href="content.aspx#feat" class="nav-link link-light">Components</a>
+              </li>
+              <li class="nav-item">
+               <a href="contact.aspx" class="nav-link link-light">Reach Us</a>
+             </li>
+            </ul>
+          </div>
+          <div class="col-md-4">
+            <p class="text-end d-none d-md-block mt-2">
+              Copyright &copy; Virran Tech  2023
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/script.js"></script>
+    <script src="common/common.js"></script>
+    <script src="js/Shared/Validation/jquery.validate.js"></script>
+    <script src="js/Shared/Validation/ValidationRulles.js"></script>
+    <script src="js/Shared/Validation/jquery.validation.js"></script>
+        <script src="js/jquery.min.js"></script>
+    </form>
+</body>
+</html>
+
+

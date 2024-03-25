@@ -1,0 +1,20 @@
+﻿Could not parse the configuration file. The error message is: 'The 'data source' keyword is not supported.'. Try editing the file manually and then saving it.
+Generated model file: EventEntity.edmx.
+Loading metadata from the database took 00:00:01.5773992.
+Generating the model took 00:00:03.0415044.
+Added the connection string to the Web.Config file.
+Generated model file: EventEntity.edmx.
+Loading metadata from the database took 00:00:01.2432200.
+Generating the model took 00:00:02.4553168.
+Generated model file: EventEntity.edmx.
+Loading metadata from the database took 00:00:01.6691776.
+Generating the model took 00:00:02.7896743.
+Generated model file: EventEntity.edmx.
+Loading metadata from the database took 00:00:01.2319818.
+Generating the model took 00:00:02.8939072.
+Generated model file: EventEntity.edmx.
+Loading metadata from the database took 00:00:01.2300924.
+Generating the model took 00:00:03.2687588.
+Generated model file: EventEntity.edmx.
+Loading metadata from the database took 00:00:01.3159497.
+Generating the model took 00:00:02.8325195.

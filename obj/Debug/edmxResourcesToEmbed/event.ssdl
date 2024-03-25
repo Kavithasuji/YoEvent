@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EventManagementModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="User_Mgt">
+    <Key>
+      <PropertyRef Name="User_Id" />
+    </Key>
+    <Property Name="User_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="User_Type" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="User_Name" Type="varchar" MaxLength="150" Nullable="false" />
+    <Property Name="Mobile_Number" Type="bigint" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Confirm_Password" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="Person_type" Type="varchar" MaxLength="20" />
+    <Property Name="Createdby" Type="varchar" MaxLength="50" />
+    <Property Name="Createdon" Type="datetime" />
+    <Property Name="Updateby" Type="varchar" MaxLength="50" />
+    <Property Name="Updatedon" Type="datetime" />
+  </EntityType>
+  <EntityContainer Name="EventManagementModelStoreContainer">
+    <EntitySet Name="User_Mgt" EntityType="Self.User_Mgt" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
